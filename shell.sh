@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Defining Numbers
-start=1
+start=3
 end=20
 
 echo "Printing the odd numbers from $start to $end are:"
