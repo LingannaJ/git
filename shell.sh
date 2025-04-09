@@ -2,6 +2,7 @@
 #!/bin/bash
 
 # Defining Numbers
+
 start=6
 end=20
 
